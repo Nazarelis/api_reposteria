@@ -1,0 +1,82 @@
+{
+    "utensilios": [
+    {
+     "title": "Cortadores redondos",
+     "id": "1",
+     "price": "1000" ,
+     "image": "https://as1.ftcdn.net/v2/jpg/01/96/01/16/1000_F_196011678_U5eNy3yNEl9TYRxPUt72fk0nnoOUtpcD.jpg"
+  },
+  
+  
+  {
+     "title": "Molde Desmontable Redondo",
+     "id": "2",
+     "price": "2000" ,
+     "image": "https://as2.ftcdn.net/v2/jpg/00/83/18/63/1000_F_83186391_ChwYhC4RNbQPjsXKKV9t9LQz0qvDhkMj.jpg"
+  },
+  
+  
+  {
+     "title": "Molde para Cupcakes",
+     "id": "3",
+     "price": "1500" ,
+     "image": "https://as2.ftcdn.net/v2/jpg/05/82/40/09/1000_F_582400936_ZBFIqxIMDiE2zwKAYvt9K3P84mQxM76e.jpg"
+  },
+  
+  
+  {
+     "title": "Molde BundtCake",
+     "id": "4",
+     "price": "3000" ,
+     "image": "https://as2.ftcdn.net/v2/jpg/03/75/90/15/1000_F_375901584_a1WJ8qxLg5Twm39SgfBUj9TeOz9abkD1.jpg"
+  },
+  
+  
+  {
+     "title": "Molde de Mini Tartaletas",
+     "id": "5",
+     "price": "1800",
+     "image": "https://as1.ftcdn.net/v2/jpg/01/16/87/96/1000_F_116879629_eRAwEiJbftrKygrrSi0KVSpxQR6T30EX.jpg"
+  
+  },
+
+  
+  {
+     "title": "Molde Silicona para Donas",
+     "id": "6",
+     "price": "1400", 
+     "image": "https://as1.ftcdn.net/v2/jpg/04/06/37/54/1000_F_406375414_81udoV7PcteA7sBwnxvpFRuUMQK9FAuE.jpg"
+  },
+  
+  
+  {
+     "title": "Espatula lisa",
+     "id": "7",
+     "price": "1900", 
+     "image": "https://as2.ftcdn.net/v2/jpg/04/83/04/09/1000_F_483040972_hEJcOstqjMcleuTfUtDqoFqCeRAmaaGH.jpg"
+  },
+  
+  
+  {
+     "title": "Espatula Triangular Dorada",
+     "id": "8",
+     "price": "1750", 
+     "image": "https://as2.ftcdn.net/v2/jpg/05/24/45/73/1000_F_524457306_6d3rQTB6kWt9tV2KooFCsQXlZoYVi7HG.jpg"
+  },
+  
+  {
+     "title": "Brocha de Silicona",
+     "id": "9",
+     "price": "1100", 
+     "image": "https://as1.ftcdn.net/v2/jpg/04/67/96/98/1000_F_467969842_h85STM6CzK3uqM9cQSbMraAq8rwTGpsb.jpg"
+  },
+  
+  {
+     "title": "Kit Boquillas",
+     "id": "10",
+     "price": "1200", 
+     "image": "https://as1.ftcdn.net/v2/jpg/00/49/40/60/1000_F_49406043_acYa2sAgdkonvLeV9FmD6aBJFwZJiNh9.jpg"
+  }
+  
+  ]
+  }
